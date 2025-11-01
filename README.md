@@ -1,5 +1,12 @@
-## Distribution-aware Knowledge Unification and Association for Non-exemplar Lifelong Person Re-identification [[Paper]]()
+## Distribution-aware Knowledge Unification and Association for Non-exemplar Lifelong Person Re-identification
 
+<div align="center"> 
+  
+[![arXiv](https://img.shields.io/badge/arXiv-2504.15041-b31b1b?logo=arxiv)](https://arxiv.org/abs/2508.03516)
+
+</div>
+
+# Introduction
 ```
 Our work proposes a novel distribution-aware knowledge unification and association (DKUA) framework where domain-style modeling is performed for each instance to propagate domain-specific representations, enhancing anti-forgetting and generalization capacity.
 ```
